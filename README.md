@@ -1,6 +1,7 @@
 # Hello 👋
 
-![All-Time Commits](https://img.shields.io/github/commit-activity/all/<your-username>/<your-repo>?style=flat-square)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs&include_all_commits=true)
+
 
 
 I'm Richard Banak, a Data Engineer Expert from Brazil with 12+ years of experience transforming data into scalable solutions.
