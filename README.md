@@ -1,6 +1,6 @@
 # Hello 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbnk&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![All-Time Commits](https://img.shields.io/github/commit-activity/all/<your-username>/<your-repo>?style=flat-square)
 
 
 I'm Richard Banak, a Data Engineer Expert from Brazil with 12+ years of experience transforming data into scalable solutions.
