@@ -1,5 +1,8 @@
 # Hello 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbnk&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 I'm Richard Banak, a Data Engineer Expert from Brazil with 12+ years of experience transforming data into scalable solutions.
 
 - 🔭 Currently building the next big SaaS project powered by AI.
