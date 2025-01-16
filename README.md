@@ -6,7 +6,7 @@ I'm Richard Banak, a Data Engineer Expert from Brazil with 12+ years of experien
 - 🌱 Exploring Front-End development and mastering new cloud data tools.
 - 🤔 Automating everything I can —— should I tackle coffee next?
 - ❤️ Nothing thrills me more than unlocking AI's potential.
-- 👯 I like to empower people to work with data.
+- 👯 I like to empower people to work with data and Generative AI.
 
 ## ⚡ Stack
 
