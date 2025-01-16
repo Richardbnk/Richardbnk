@@ -1,10 +1,5 @@
 # Hello 👋
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbnk&show_icons=true&count_private=true&hide=contribs&include_all_commits=true)
-![Commits Badge](https://badgen.net/github/commits/richardbnk/richardbnk)
-
-
-
 I'm Richard Banak, a Data Engineer Expert from Brazil with 12+ years of experience transforming data into scalable solutions.
 
 - 🔭 Currently building the next big SaaS project powered by AI.
@@ -15,10 +10,11 @@ I'm Richard Banak, a Data Engineer Expert from Brazil with 12+ years of experien
 
 ## ⚡ Stack
 
-* **Master JEDI in:**   Web Scraping, RPA, ETL Pipelines, Big Data, Data Quality and Monitoring, Data and ML Engineering.
-* **Data Tools:**   Databricks, Snowflake, Big Query, SQL Server, SAP HANA BW, Looker.
-* **Languages:**   Python, SQL, Spark, SAP ABAP, Kafka, Scala and Swift.
-* **Other:**   GCP, AWS, Azure, Airflow, Jenkins, Vertex AI, Prompt Engineering, SaaS, Data Vizualization, Copywriting, SAP Ecosystem.
+- ![#aeddff](https://placehold.co/15x15/f03c15/f03c15.png) 
+* ![#aeddff]**Master JEDI in:**`#aeddff` Web Scraping, RPA, ETL Pipelines, Big Data, Data Quality and Monitoring, Data and ML Engineering.
+* **Data Tools:** Databricks, Snowflake, Big Query, SQL Server, SAP HANA BW, Looker.
+* **Languages:** Python, SQL, Spark, SAP ABAP, Kafka, Scala and Swift.
+* **Other:** GCP, AWS, Azure, Airflow, Jenkins, Vertex AI, Prompt Engineering, SaaS, Data Vizualization, Copywriting, SAP Ecosystem.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-banak/)
 
