@@ -1,6 +1,6 @@
 # Hello 👋
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs&include_all_commits=true)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardbnk&show_icons=true&count_private=true&hide=contribs&include_all_commits=true)
 
 
 
