@@ -6,12 +6,12 @@ I'm Richard Banak, a Data and ML Engineer Expert from Brazil with 12+ years of e
 - 🌱 Exploring Front-End development and mastering new cloud data tools.
 - 🤔 Automating everything I can —— should I tackle coffee next?
 - ❤️ Nothing thrills me more than unlocking AI's potential.
-- 👯 I like to empower people to work with data and Generative AI.
+- 👯 I like to empower people to work with Data and Generative AI.
 
 ## ⚡ Stack
 
-* **Master JEDI in:**  Web Scraping, RPA, ETL Pipelines, Big Data, Data Quality and Monitoring, Data and ML Engineering.
-* **Data Tools:** Databricks, Snowflake, Big Query, SQL Server, SAP HANA BW, Looker.
+* **Master JEDI in:**  Web Scraping, RPA, ETL Pipelines, Big Data, Data Quality, Monitoring, Data and ML Engineering.
+* **Data Tools:** Databricks, Snowflake, Big Query, SQL Server, MongoDB, SAP HANA BW, PostgreSQL, Looker.
 * **Languages:** Python, SQL, Spark, SAP ABAP, Kafka, Scala and Swift.
 * **Other:** GCP, AWS, Azure, Airflow, Jenkins, Vertex AI, Prompt Engineering, SaaS, Data Vizualization, Copywriting, SAP Ecosystem.
 
