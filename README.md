@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Richard Banak, a Data Engineer Expert from Brazil with 12+ years of experience transforming data into scalable solutions.
+I'm Richard Banak, a Data and ML Engineer Expert from Brazil with 12+ years of experience transforming data into scalable solutions.
 
 - 🔭 Currently building the next big SaaS project powered by AI.
 - 🌱 Exploring Front-End development and mastering new cloud data tools.
